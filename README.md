@@ -28,9 +28,8 @@ Also see:
   src="img/throttle.jpg"
   alt="Setup for VR flight"
   title="Flight sim setup"
-  style="display: inline-block; margin: 0 auto; max-height: 300px">
-
-<img
+  style="display: inline-block; margin: 0 auto; max-height:
+  300px"><img
   src="img/vr.jpg"
   alt="VR flight configuration"
   title="VR headet"
