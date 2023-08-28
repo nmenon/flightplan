@@ -1,6 +1,7 @@
 # Flight Simulator  Flight Plans
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 A few flight simulator flight plans as I fly around.
 

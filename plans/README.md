@@ -1,6 +1,7 @@
 # Various Flight Plans
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 # Agra, India, Taj Mahal
 

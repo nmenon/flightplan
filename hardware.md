@@ -1,6 +1,7 @@
 # Hardware setup
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 * [X-Force PC](https://xforcepc.com/)
 * [HP Reverb G2](https://www.hp.com/us-en/vr/reverb-vr-headset-gaming.html)
