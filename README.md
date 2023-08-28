@@ -24,5 +24,5 @@ folks are probably angry at me.. what the heck, to each, their own :D
 
 # Loading Flight Plans
 
-[![MSFS2020 Load Flight Plan](https://img.youtube.com/vi/fEVH1lceVLg/0.jpg)](https://www.youtube.com/watch?v=fEVH1lceVLg "Kernel Patch Verify Intro video")
-[![X-Plane 12 Load Flight Plan](https://img.youtube.com/vi/-flE0DRr5c4/3.jpg)](https://www.youtube.com/watch?v=-flE0DRr5c4 "Kernel Patch Verify Intro video")
+* MSFS2020: [![MSFS2020 Load Flight Plan](https://img.youtube.com/vi/fEVH1lceVLg/3.jpg)](https://www.youtube.com/watch?v=fEVH1lceVLg "MSFS2020 Load Flight Plan")
+* X-Plane 12: [![X-Plane 12 Load Flight Plan](https://img.youtube.com/vi/-flE0DRr5c4/3.jpg)](https://www.youtube.com/watch?v=-flE0DRr5c4 "X-Plane 12 Load Flight Plan")
