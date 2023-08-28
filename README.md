@@ -18,9 +18,9 @@ See rendered site [here](https://nmenon.github.io/flightplan/)
 
 Also see:
 
-* https://skyvector.com/
-* https://www.world-airport-codes.com/
-* https://www.simbrief.com/home/
+* [SkyVector](https://skyvector.com/)
+* [World Airport Codes](https://www.world-airport-codes.com/)
+* [SimBrief](https://www.simbrief.com/home/)
 * [Hardware setup](hardware.md)
 
 I am a cessna 172 fan for what ever reason ;). I know the piper and cirrus
