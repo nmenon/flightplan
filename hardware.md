@@ -1,7 +1,3 @@
----
-title: Hardware Setup
----
-
 # Hardware setup
 
 * [X-Force PC](https://xforcepc.com/)

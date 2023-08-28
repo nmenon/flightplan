@@ -1,6 +1,4 @@
----
-title: Various Flight Plans
----
+# Various Flight Plans
 
 # Agra, India, Taj Mahal
 
