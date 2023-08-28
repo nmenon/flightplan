@@ -9,3 +9,4 @@
 visit when travelling to India. So here goes a quick flight plan (first one,
 lets see how this pans out)
 <img src="001_agra_tajmahal/flightplan-tajMahal.png" alt="Agra, India, Taj mahal" width="200"/>
+![Agra, India, Taj Mahal](001_agra_tajmahal/flightplan-tajMahal.png =x200)
