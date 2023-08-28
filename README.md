@@ -4,6 +4,8 @@
 
 A few flight simulator flight plans as I fly around.
 
+See rendered site [here](https://nmenon.github.io/flightplan/)
+
 # List of Flight Plans:
 
 [Flight Plans](plans/README.md)
