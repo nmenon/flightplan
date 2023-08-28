@@ -1,5 +1,7 @@
 # Various Flight Plans
 
+* TOC {:toc}
+
 # Agra, India, Taj Mahal
 
 [Taj Mahal](https://en.wikipedia.org/wiki/Taj_Mahal) is a standard location to

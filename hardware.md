@@ -1,5 +1,7 @@
 # Hardware setup
 
+* TOC {:toc}
+
 * [X-Force PC](https://xforcepc.com/)
 * [HP Reverb G2](https://www.hp.com/us-en/vr/reverb-vr-headset-gaming.html)
 * [Honeycomb Alpha - Discontinued](https://flyhoneycomb.com/products/alpha-flight-controls) - See [Alpha flight controls XPC](https://flyhoneycomb.com/collections/honeycomb-flight-sim-hardware/products/alpha-flight-controls-xpc)
