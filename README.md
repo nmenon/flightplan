@@ -26,3 +26,15 @@ folks are probably angry at me.. what the heck, to each, their own :D
 
 * MSFS2020: [![MSFS2020 Load Flight Plan](https://img.youtube.com/vi/fEVH1lceVLg/3.jpg)](https://www.youtube.com/watch?v=fEVH1lceVLg "MSFS2020 Load Flight Plan")
 * X-Plane 12: [![X-Plane 12 Load Flight Plan](https://img.youtube.com/vi/-flE0DRr5c4/3.jpg)](https://www.youtube.com/watch?v=-flE0DRr5c4 "X-Plane 12 Load Flight Plan")
+
+> **Warning**
+X-Plane requires you to copy the flight plans to:
+{x-plane-root-folder}/Output/FMS plans
+* For example, on Windows:
+D:\SteamLibrary\steamapps\common\X-Plane 12\Output\FMS plans
+* On Linux, this may be:
+~/X-Plane 12/Output/FMS plans
+The folder "FMS plans" Usually does'nt exist by default and may need to be
+created.
+
+
