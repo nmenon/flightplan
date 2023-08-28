@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializableFltPlan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SerializedAPPRPlan>
+    <VectorSetupComplete>false</VectorSetupComplete>
+    <AirportIdentifier>VIAG</AirportIdentifier>
+    <Name>VFR Pattern</Name>
+    <Type>VFRPattern</Type>
+    <RunwayName>RW23</RunwayName>
+    <ActiveWaypoints />
+    <MinVectorStartAltitude>0</MinVectorStartAltitude>
+  </SerializedAPPRPlan>
+  <VectorStartLeadSeconds>0</VectorStartLeadSeconds>
+  <DepartureAirportICAOCode>VIAG</DepartureAirportICAOCode>
+  <DestinationAirportICAOCode>VIAG</DestinationAirportICAOCode>
+  <CruiseAltitude>1500</CruiseAltitude>
+  <DescentRate>1200</DescentRate>
+  <TODDistance>0</TODDistance>
+  <ActiveRouteWpts>
+    <FPWpt>
+      <TrackCalculated>true</TrackCalculated>
+      <TrackDistanceCalculated>false</TrackDistanceCalculated>
+      <TagType>NavFix</TagType>
+      <TagId>0</TagId>
+      <Type>UserDefined</Type>
+      <OwnerType>Route</OwnerType>
+      <Identifier>User Defined Point</Identifier>
+      <Name>User Defined Point</Name>
+      <Via>DIRECT</Via>
+      <Position>
+        <Latitude>27.1747932</Latitude>
+        <Longitude>78.041954</Longitude>
+      </Position>
+      <Passed>false</Passed>
+      <Freq>0</Freq>
+      <AltitudeConstraint>NoRestriction</AltitudeConstraint>
+      <NavFix_Id>0</NavFix_Id>
+      <TargetAltitudeCalculated>true</TargetAltitudeCalculated>
+      <FirstAltitude xsi:nil="true" />
+      <SecondAltitude xsi:nil="true" />
+      <ManualTermination>false</ManualTermination>
+      <TargetAltitude>1500</TargetAltitude>
+      <SpeedConstraint>NoRestriction</SpeedConstraint>
+      <FirstSpeed xsi:nil="true" />
+      <SecondSpeed xsi:nil="true" />
+      <TargetSpeed>90</TargetSpeed>
+      <TargetSpeedCalculated>true</TargetSpeedCalculated>
+      <Track>77</Track>
+      <TrackDistance>4.39797163</TrackDistance>
+      <TrackETE />
+      <MagVar>0</MagVar>
+    </FPWpt>
+  </ActiveRouteWpts>
+  <PlanETESeconds>708</PlanETESeconds>
+  <PlanGrndSpeed>90</PlanGrndSpeed>
+  <PlanDistance>17.8191967</PlanDistance>
+  <Name>D:\FlightPlans\TajMahal</Name>
+  <Type>VFR</Type>
+</SerializableFltPlan>

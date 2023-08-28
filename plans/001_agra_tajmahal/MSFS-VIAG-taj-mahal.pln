@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+<Title>VIAGVIAG</Title>
+<FPType>VFR</FPType>
+<CruisingAlt>1500</CruisingAlt>
+<DepartureID>VIAG</DepartureID>
+<DepartureLLA>N27° 9' 30",E77° 57' 42.01",+000548.00</DepartureLLA>
+<DestinationID>VIAG</DestinationID>
+<DestinationLLA>N27° 9' 30",E77° 57' 42.01",+000548.00</DestinationLLA>
+<DepartureName>AGRA</DepartureName>
+<DestinationName>AGRA</DestinationName>
+<AppVersion>
+<AppVersionMajor>11</AppVersionMajor>
+<AppVersionBuild>282174</AppVersionBuild>
+</AppVersion>
+<ATCWaypoint id="VIAG">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N27° 9' 30",E77° 57' 42.01",+000548.00</WorldPosition>
+<RunwayNumberFP>23</RunwayNumberFP>
+<ICAO>
+<ICAOIdent>VIAG</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+<ATCWaypoint id="UserDefinedPoint">
+<ATCWaypointType>User</ATCWaypointType>
+<WorldPosition>N27° 10' 29.26",E78° 2' 31.03",+001500.00</WorldPosition>
+</ATCWaypoint>
+<ATCWaypoint id="VIAG">
+<ATCWaypointType>Airport</ATCWaypointType>
+<WorldPosition>N27° 9' 30",E77° 57' 42.01",+000548.00</WorldPosition>
+<ICAO>
+<ICAOIdent>VIAG</ICAOIdent>
+</ICAO>
+</ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
